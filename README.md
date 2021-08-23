@@ -12,7 +12,7 @@ Los No Supervisados
 * José Daniel Maldonado Núñez
 
 ## Descripión
-Este flujo de trabajo resuelve la tarea de procesar imágenes, extraer texto e identificar entidades (nombres, lugares, organizaciones y fechas) de capturas de fichas de información tomadas entre 1965 y 1984 relacionadas con individuos desaparecidos en México
+Este flujo de trabajo resuelve la tarea de procesar imágenes, extraer texto e identificar entidades (nombres, lugares, organizaciones y fechas) de capturas de fichas de información tomadas entre 1965 y 1984 relacionadas con individuos desaparecidos en México.
 
 ## Pipeline
 1. La imagen entra al modelo, se corrige la calidad rotándola si es necesario y cambiando la escala de colores a blanco y negro.
@@ -21,7 +21,7 @@ Este flujo de trabajo resuelve la tarea de procesar imágenes, extraer texto e i
 4. Finalmente el texto limpio entra al modelo para reconocer entidades generando un resultado en un archivo CSV.
 
 ## Cómo correr el código
-Ejecutar el ipynb
+Ejecutar el codigo del archivo JusticIA_AccesoDatos.ipynb siguiendo el orden de las celdas.
 
 ## Notas
 Acerca de los [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
