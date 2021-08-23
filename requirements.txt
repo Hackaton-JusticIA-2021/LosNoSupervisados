@@ -1,0 +1,12 @@
+pandas
+PIL
+Pillow
+tesseract-ocr
+libtesseract-dev
+pytesseract
+autocorrect
+cv2
+numpy
+matplotlib
+scipy
+spacy
