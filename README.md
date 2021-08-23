@@ -7,7 +7,7 @@ Los No Supervisados
 **Integrantes**
 * Juan Francisco Mandujano Reyes
 * Daniela Andaluz Ramírez
-* Judith Tabarez Rodríguez
+* Judith Tavarez Rodríguez
 * Erick Salvador Alvarez Valencia
 * José Daniel Maldonado Núñez
 
